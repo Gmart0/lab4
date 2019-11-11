@@ -1,0 +1,4 @@
+/home/egor/lab4/calculator/CMakeFiles/rebuild_cache.dir
+/home/egor/lab4/calculator/CMakeFiles/edit_cache.dir
+/home/egor/lab4/calculator/CMakeFiles/calculator.dir
+/home/egor/lab4/calculator/CMakeFiles/test.dir
